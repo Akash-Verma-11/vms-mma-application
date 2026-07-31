@@ -4,6 +4,7 @@ target/
 *.jar
 *.war
 .mvn/timing.properties
+platform-api/target/
 
 # Node.js frontend
 node_modules/
